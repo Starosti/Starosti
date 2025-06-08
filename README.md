@@ -17,7 +17,7 @@ With a strong foundation in React and it's most popular libraries, I love turnin
 
 ## Contact & Links
 
-**Website**: [caganatan.dev](caganatan.dev)  
-**LinkedIn**: [linkedin.com/in/cagana](https://www.linkedin.com/in/cagana/)  
+**Website**: [caganatan.dev](https://caganatan.dev)  
+**LinkedIn**: [linkedin.com/in/cagana](https://linkedin.com/in/cagana/)  
 **GitHub**: [github.com/Starosti](https://github.com/Starosti)  
 **Email**: cagan@caganatan.dev
